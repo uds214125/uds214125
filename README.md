@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uds214125
 - 👀 I’m interested in developing software
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning Python,DevOps,AI,ML
 - 📫 How to reach me -> uds214125@gmail.com
 
 <!---
